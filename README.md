@@ -3,11 +3,11 @@
 1. This is question one
 
 - Web development is the process of building, deploying and maintaining websites or web applications that are hosted on the internet and which the user interacts with by using their preferred browser such as Google Chrome or Microsoft Edge.
-  Yes , I am familiar with HTML which is a markup language and stands for hypertext markup language. HTML is used to structure the content on a website or web application.
+  Yes , I am familiar with HTML which is a markup language and stands for hypertext markup language. HTML is used to structure the content on a website or web application..
 
 2. This is question 2
 
-- CSS, or cascading stylesheets is used to style web pages and make the user interface appealing to the human eye
+- CSS, or cascading stylesheets is used to style web pages and make the user interface appealing to the human eye.
 
 3. This is question 3
 
@@ -21,4 +21,5 @@
 5. this is question 5
 
 - MY main reason for learning web development is to build a career for myself as a software engineer who solves real world problems and provides value to clients and businesses by offering web based solutions.
+
 # chapter-one-checkpoint
