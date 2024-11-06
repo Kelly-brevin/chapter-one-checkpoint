@@ -20,6 +20,6 @@
 
 5. this is question 5
 
-- MY main reason for learning web development is to build a career for myself as a software engineer who solves real world problems and provides value to clients and businesses by offering web based solutions.
+- My main reason for learning web development is to build a career for myself as a software engineer who solves real world problems and provides value to clients and businesses by offering web based solutions.
 
 # chapter-one-checkpoint
